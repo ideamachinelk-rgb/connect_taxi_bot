@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 
 # Bot token is read from Railway environment variable
 import os
-TOKEN = os.environ.get("TOKEN")
+TOKEN = 8743839648:AAE0nEAQnnLozqUS20787mHf_fDbnK-FHNc
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
